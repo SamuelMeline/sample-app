@@ -1,3 +1,3 @@
 #!/bin/bash
 echo 'Hello Jenkins'
-echo 'test webhook'
+echo 'test webhook update'
