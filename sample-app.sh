@@ -1,5 +1,3 @@
-cat > sample-app.sh
-
 #!/bin/bash
 echo 'Hello Jenkins'
-exit 0
+echo 'test webhook'
